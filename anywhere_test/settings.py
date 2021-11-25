@@ -55,7 +55,7 @@ ROOT_URLCONF = 'anywhere_test.urls'
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
-        'DIRS': ["aywhere_test/templates"],
+        'DIRS': ["anywhere_test/templates"],
         'APP_DIRS': True,
         'OPTIONS': {
             'context_processors': [
